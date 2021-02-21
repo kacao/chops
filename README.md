@@ -1,0 +1,2 @@
+# chops
+Simple JSON logger
