@@ -2,7 +2,7 @@
 Simple JSON logger
 
 ```
-import {withFields, debug, info, warn, error, log} from "chops";
+import {withFields, debug, info, warn, error, log} from "@kacao/chops";
 
 log("chops");     // {msg: "chops", "level": "info"}
 debug("chops");   // {msg: "chops", "level": "debug"}
